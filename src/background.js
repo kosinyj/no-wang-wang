@@ -9,6 +9,8 @@ var listener = function(details) {
 };
 
 var urls = [
+  "*://*.facebook.com/*",
+  "*://*.yahoo.com/*",
   "*://*.chinatimes.com/*",
   "*://*.ctitv.com.tw/*",
   "*://*.ctv.com.tw/*"

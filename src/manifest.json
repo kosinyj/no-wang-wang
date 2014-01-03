@@ -1,9 +1,9 @@
 {
-  "name": "旺中守門員",
-  "version": "0.2.0_k",
+  "name": "旺中守門員(兼打混守門員）",
+  "version": "0.2.1",
   "manifest_version": 2,
 
-  "description": "從今天起，拒看中時電子報、中天電視、中視的網站。原始碼下載： github.com/chitsaou/no-wang-wang",
+  "description": "防止旺中，同時防止打混。原始碼下載： github.com/kosinyj/no-wang-wang",
 
   "background": {
     "scripts": ["background.js"]
